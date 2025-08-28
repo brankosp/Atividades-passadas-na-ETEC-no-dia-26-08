@@ -9,6 +9,7 @@ alunos = ["Kaique", "Kauê", "Henrique", "Miguel"]
 # Embaralha a lista em uma ordem aleatória
 random.shuffle(alunos)
 
+
 # Imprime a nova ordem de apresentação
 print("A ordem de apresentação dos trabalhos é:")
 for i, aluno in enumerate(alunos):
