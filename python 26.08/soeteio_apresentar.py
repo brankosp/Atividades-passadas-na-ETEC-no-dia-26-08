@@ -13,3 +13,5 @@ random.shuffle(alunos)
 print("A ordem de apresentação dos trabalhos é:")
 for i, aluno in enumerate(alunos):
     print(f"{i + 1}. {aluno}")
+
+    #salve batman 
